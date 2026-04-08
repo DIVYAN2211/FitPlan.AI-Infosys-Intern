@@ -345,19 +345,4 @@ CORS_ORIGINS=http://localhost:5173,http://localhost:3000
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📝 License
 
-This project is proprietary and confidential.
-
-## 📞 Support
-
-For issues and questions:
-- Check existing GitHub issues
-- Create new issue with detailed description
-- Contact development team
-
----
-
-**Last Updated**: February 2026
-**Version**: 1.0.0
-**Status**: Production Ready
