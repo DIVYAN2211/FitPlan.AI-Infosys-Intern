@@ -1,4 +1,5 @@
 # Fitplan.ai - AI-Powered Fitness & Diet Planning Platform
+[Demo](https://youtu.be/8N1WC25ivvw)
 
 A comprehensive fitness application that uses AI (Google Gemini) to generate personalized workout plans and location-aware diet recommendations based on user profiles and preferences.
 
